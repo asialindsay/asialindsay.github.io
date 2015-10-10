@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "My First Post On Octopress"
+title: "Breaking into the New York tech scene isn’t as hard as it sounds"
 date: 2015-10-10 14:52:30 -0400
 comments: true
-categories: Flatiron School
+categories: Flatiron School, tech, women, coding
 ---
-
-<h1>Breaking into the New York tech scene isn’t as hard as it sounds</h1>
 
 My journey into tech wasn’t clear cut. I started my career as a linguist for TED, and while I was there I started the TED Coding Club with one of the web developers, Alex Dean. I rallied the people on the ground and he Skyped in from South Dakota to help with the technical questions- it was awesome!
 
