@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "My First Post On Octopress"
-date: 2015-10-01 16:46:37 -0400
+date: 2015-10-10 14:52:30 -0400
 comments: true
 categories: Flatiron School
 ---
-"Hello, World." 
+"Let's get technical"
